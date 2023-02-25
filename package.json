@@ -8,6 +8,7 @@
     "start": "node server.js"
   },
   "name": "react_proj",
+  "type": "module",
   "description": "",
   "version": "1.0.0",
   "main": "server.js",
