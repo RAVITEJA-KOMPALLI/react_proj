@@ -3,7 +3,7 @@ import {config} from "dotenv";
 config();
 import mongoose from "mongoose";
 import todoModel from "./backend/models/todoModel.js";
-import * as todoLib from "./backend/libs/todoLib.js";
+import * as todoLib from "./backend/lib/todoLib.js";
 
 import express,{request} from "express";
 //const { request } = require("express");
