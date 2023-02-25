@@ -3,5 +3,23 @@
     "dotenv": "^16.0.3",
     "express": "^4.18.2",
     "mongoose": "^6.10.0"
-  }
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "react_proj",
+  "description": "",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RAVITEJA-KOMPALLI/react_proj.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RAVITEJA-KOMPALLI/react_proj/issues"
+  },
+  "homepage": "https://github.com/RAVITEJA-KOMPALLI/react_proj#readme"
 }
